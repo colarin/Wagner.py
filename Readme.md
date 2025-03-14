@@ -6,7 +6,7 @@
             src="https://custom-icon-badges.demolab.com/github/stars/colarin?color=6f00ff&style=for-the-badge&labelColor=1a1a1a&logo=star&label=Estrelas"
         />
     </a>
-    <a href="https://github.com/Satiro07?tab=followers">
+    <a href="https://github.com/colarin?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
