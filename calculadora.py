@@ -1,11 +1,11 @@
 def calculadora():
     import math
     resultado = 0
-    conti = 0
     print(f'{"CALCULADORA":-^45}')
     num1 = float(input('Me diga um número: '))
     print('='*45)
     while True:
+        conti = 0
         operacao = input('Qual a operação você deseja:\n'
                     'somar (+)\n'
                     'subtrair (-)\n' 
